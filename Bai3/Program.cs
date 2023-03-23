@@ -10,6 +10,7 @@ namespace Bai3
     {
         static void Main(string[] args)
         {
+            //Le Phu Qui
             Console.Write("Nhap duong kinh: ");
             float duongKinh = float.Parse(Console.ReadLine());
             const double PI = 3.14;
